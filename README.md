@@ -33,9 +33,14 @@
 - [Yo plugin generator](https://github.com/WebDevStudios/generator-plugin-wp)
 - [Plugin updater](https://github.com/YahnisElsts/plugin-update-checker) 
 - [Theme Updater] (http://w-shadow.com/blog/2011/06/02/automatic-updates-for-commercial-themes/)
-
+- [Wordpress Custom Posts Types](https://codex.wordpress.org/Post_Types)
+- [Advanced Custom Fields](http://www.advancedcustomfields.com/)
 
 ## Deploy
 - [Wordmove](https://github.com/welaika/wordmove)
 - [Deployer](http://deployer.org/)- 
 
+## Future
+
+- [WP API v2](http://v2.wp-api.org/)
+- [Picard -  A react theme for wordpress](https://github.com/Automattic/picard)
