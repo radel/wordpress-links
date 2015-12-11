@@ -20,6 +20,13 @@
 - [Bedrock](https://roots.io/bedrock/)
 - [Composer](https://getcomposer.org/)
 
+## Basic Knowledge
+
+- [The Loop](https://codex.wordpress.org/The_Loop)
+- [WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query)
+- [Shortcodes](https://codex.wordpress.org/Shortcode_API)
+- [Filters](https://codex.wordpress.org/Plugin_API/Filter_Reference)
+
 ## Themes Boilerplates
 ### Bootstrap
 - [Sage](https://roots.io/sage/)
