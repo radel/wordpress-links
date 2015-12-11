@@ -28,7 +28,7 @@
 - [FoundationPress](https://foundationpress.olefredrik.com/)
 - [JointsWP](http://jointswp.com/)
 
-## Plugin Tools and library
+## Plugin Tools and libraries
 - [CMB2 fields](https://github.com/WebDevStudios/cmb2)
 - [Yo plugin generator](https://github.com/WebDevStudios/generator-plugin-wp)
 - [Plugin updater](https://github.com/YahnisElsts/plugin-update-checker) 
