@@ -13,17 +13,27 @@
 ### Vagrant
 - [vvv](https://github.com/Varying-Vagrant-Vagrants/VVV)
 - [vvv-auto-site-wizard](https://github.com/aliso/vvv-site-wizard)
+- [Trellis](https://roots.io/trellis/)
 
 ### Tools
 - [wpcli](http://wp-cli.org/)
+- [Bedrock](https://roots.io/bedrock/)
+- [Composer](https://getcomposer.org/)
 
-## Boilerplates
+## Themes Boilerplates
 ### Bootstrap
 - [Sage](https://roots.io/sage/)
 
 ### Foundation
 - [FoundationPress](https://foundationpress.olefredrik.com/)
 - [JointsWP](http://jointswp.com/)
+
+## Plugin Tools and library
+- [CMB2 fields](https://github.com/WebDevStudios/cmb2)
+- [Yo plugin generator](https://github.com/WebDevStudios/generator-plugin-wp)
+- [Plugin updater](https://github.com/YahnisElsts/plugin-update-checker) 
+- [Theme Updater] (http://w-shadow.com/blog/2011/06/02/automatic-updates-for-commercial-themes/)
+
 
 ## Deploy
 - [Wordmove](https://github.com/welaika/wordmove)
